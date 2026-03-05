@@ -1,5 +1,4 @@
 # BDM-Capstone-Project
-# BDM-Capstone-Project
 
 ## What is a Capstone Project?  
 A **Capstone Project** is an **independent research project** where theoretical knowledge is applied to real-world scenarios. In this case, it is based on the **BDM course**, emphasizing **data-driven decision-making** in business.  
